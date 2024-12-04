@@ -1,2 +1,5 @@
-# Data-Science-assignment
-Real data on Gaza and Palestine were provided and we had to answere some questions and interpret the meaning of the results using jupyter lab (python). The libraries used where: Pandas, seaborn, Numpy and Matplotlib.
+There was 5 questions answered and each question is stated first then the solution and results follow![ass2_00001](https://github.com/user-attachments/assets/80312fce-29e8-45d0-b359-f9ae0b612177)
+![ass2_00002](https://github.com/user-attachments/assets/5abc3e74-25ed-4a14-884f-b0b5495eb206)
+![ass2_00003](https://github.com/user-attachments/assets/04bde5fb-a8d3-49db-bbd0-db3ae89c19de)
+![ass2_00004](https://github.com/user-attachments/assets/3a2849a3-3bc5-4e52-93ba-013f5671bb66)
+![ass2_00005](https://github.com/user-attachments/assets/a5662405-4616-4468-99ea-ae57c522d247)
